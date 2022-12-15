@@ -22,7 +22,7 @@ int main(void)
 			{
 				if (c != d && d != e && e < d && d < c)
 				{
-					putchar(' ');
+					putchar('0' + e);
 					putchar('0' + d);
 					putchar('0' + c);
 
