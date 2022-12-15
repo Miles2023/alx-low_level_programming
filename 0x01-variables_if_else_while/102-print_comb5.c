@@ -25,7 +25,7 @@ int main(void)
 		{
 			f_d2 = (c2 / 10 + '0');
 			l_d2 = (c2 % 10 + '0');
-				
+
 				if (c < c2)
 				{
 					putchar(f_d);
