@@ -23,7 +23,7 @@ int main(void)
 	int d = 0;
 
 	while (d < 10)
-	
+
 	{
 
 		c = 0;
